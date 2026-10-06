@@ -1,0 +1,18 @@
+Topic;Count;Main Words;c-TF-IDF score;LinguaLoupe_summary
+0;149;apps,app,ui,developers,features,use,what,just,access,tasks;0.43944246,0.40056437,0.36787698,0.24152078,0.23735732,0.18572332,0.16913536,0.15986913,0.15709616,0.15432744;"
+The main idea or conclusion shared by both texts is:
+These apps have impressive user interfaces, extensive features, and seamless synchronization across multiple devices, making them excellent tools for managing tasks and boosting productivity."
+1;133;chatgpt,chat,ios,app,voice,text,mobile,phone,gpt,feature;0.55556583,0.47113556,0.40139222,0.39752042,0.28344974,0.27229923,0.26788914,0.26365107,0.23300909,0.22264348;"
+The main idea or conclusion shared by the texts is:
+The users are pleased with the chatgpt mobile app for its simplicity, quick responses, and the absence of ads, although they suggest improvements in certain aspects such as history accessibility and haptic feedback control."
+2;115;chatgpt,phai,hope,plus,ngon,goi,great,support,very,far;0.57827014,0.23822165,0.16412202,0.15137811,0.14805906,0.14287111,0.13587928,0.13508669,0.134956,0.13424687;"
+The texts all express a positive sentiment, praising something as good, great, or very supportive."
+3;93;chatgpt,app,ios,openai,chat,conversations,conversation,conversational,ai,developers;0.4667979,0.46425623,0.4538555,0.40540487,0.38292867,0.37948042,0.35390407,0.34928903,0.3126335,0.25409663;"
+Main idea or conclusion:
+ChatGPT iOS app is an exceptional conversational AI tool that offers a seamless, intuitive, and human-like experience, with remarkable language capabilities, versatility, and robust privacy measures."
+4;55;app,openai,mobile,ai,about,awesome,great,you,just,helpful;0.3857879,0.29968825,0.2895134,0.24389416,0.21446665,0.21004075,0.20801169,0.20667404,0.20609398,0.20433258;"
+The main idea or conclusion they have in common is: OpenAI's app is a valuable tool for learning and utilizing artificial intelligence, providing helpful resources and interactive tutorials for users."
+5;41;app,ios,ipad,ipados,developers,iphone,use,supported,version,interface;0.41663396,0.41368324,0.30286485,0.28022644,0.25838232,0.24864517,0.21512035,0.20904773,0.19756702,0.1886141;"
+""The texts request for the development and support of an iPad version of an app."""
+6;28;app,ui,iphone,native,application,touch,voice,taptic,web,gpt;0.45133868,0.40129912,0.31084085,0.29104388,0.27759457,0.2577932,0.25149626,0.24602313,0.2410956,0.2381984;"
+- Both texts praise the user interface and haptic feedback of the native app on the iPhone, highlighting their positive impact on the user experience."

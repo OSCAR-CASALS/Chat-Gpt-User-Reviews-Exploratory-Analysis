@@ -1,0 +1,32 @@
+Topic;Count;Main Words;c-TF-IDF score;LinguaLoupe_summary
+0;300;apps,app,ui,browsing,browser,access,beta,plus,interface,work;0.4935262,0.43212044,0.38538128,0.2874689,0.2235745,0.19054261,0.18847512,0.1883713,0.187944,0.18182595;"
+The main idea or conclusion shared by the texts is that both apps have user-friendly interfaces, comprehensive features, and seamless synchronization across multiple devices, making them excellent tools for managing daily tasks and boosting productivity."
+1;298;app,iphone,phone,screen,apple,google,login,on,email,log;0.38539273,0.34813172,0.24866115,0.20446762,0.19309078,0.19139022,0.19112357,0.18105705,0.1769388,0.17177212;"
+The main idea or conclusion they have in common is:
+The users encountered issues with an app requiring personal information for sign-up, specifically a phone number, and experienced difficulties with the app's functionality on their devices, such as a small screen or missing numbers on the keyboard."
+2;141;ios,app,ui,mobile,ios16,phone,iphone,ipados,ipad,developers;0.39750272,0.3759883,0.317667,0.30147186,0.28534228,0.26618046,0.26331526,0.25375152,0.24867442,0.23916814;"
+Main idea or conclusion:
+Both texts discuss the latest features and updates of the iPad operating system, iOS 16, and its impact on app development and user interface on mobile devices."
+3;112;exciting,fascinating,why,just,idea,what,smart,ok,entering,fine;0.20980796,0.20254299,0.19836956,0.19609602,0.19207728,0.1839538,0.18061703,0.17598985,0.1746572,0.17424358;"
+The idea or conclusion they have in common is: The subject is acceptable or satisfactory, as indicated by the use of positive terms like ""good"", ""ok"", and ""fine""."
+4;110;ios,app,iphone,application,phone,device,just,use,why,does;0.47866762,0.4018481,0.31272504,0.27453592,0.24969181,0.24439871,0.17363164,0.1701031,0.16446811,0.16354734;"
+The app causes the iPhone to overheat when used."
+5;107;ios,app,chatgpt,conversations,chat,conversation,conversational,ai,developers,intelligent;0.4441073,0.44012028,0.4299327,0.3814121,0.37093374,0.35898507,0.34961864,0.34954804,0.2559895,0.24422243;"
+The main idea or conclusion they have in common is:
+ChatGPT is an exceptional and intelligent AI-powered app that provides remarkable conversational experiences, with a sleek and intuitive user interface, remarkable language capabilities, versatility, continuous improvement, and robust privacy measures."
+6;106;chatgpt,chat,app,mobile,phone,features,gpt,web,use,just;0.52642083,0.46003288,0.40318286,0.3237462,0.27101237,0.21691221,0.20141257,0.1974414,0.19383064,0.17789501;"
+The main idea or conclusion that the texts have in common is: ChatGPT is a valuable tool for users, particularly on mobile devices, as it provides quick and accurate answers to a variety of questions, making everyday tasks easier and more efficient."
+7;90;ios,app,chatgpt,openai,iphone,ipad,texto,gpt,ai,aplicacion;0.4905815,0.45093277,0.38866228,0.35965145,0.3389303,0.30280384,0.24015394,0.17499048,0.17386408,0.13198866;"
+The main idea or conclusion shared in the texts is: The users are experiencing issues with the app on their iPhone 11 and are suggesting improvements, such as personalizing the app's name or appearance, to enhance its usability and appeal, especially in educational environments."
+8;69;chatgpt,chat,apps,app,openai,ios,ai,application,mobile,about;0.59111273,0.4449431,0.38946444,0.3695963,0.34792864,0.33025736,0.2912988,0.26187783,0.24071339,0.2208901;time, interface, clean, easy, sync, devices, export, data, account, delete, local, plugins, ad-free, founder, hearings, money, simplified, ad-free, data, training efforts, productivity, knowledge, job, clients, expectations, exceeded, knowledge gaps, job performance, research, constructive feedback, performance, responsiveness, offline capabilities
+9;66;app,mobile,functionality,gpt4,gpt3,gpt,use,plugins,using,web;0.36737832,0.31230545,0.25575373,0.23586203,0.23296279,0.21362042,0.18569405,0.17284822,0.15094647,0.14887588;"
+The mobile app does not offer the same functionality as the web version of GPT-4."
+10;54;apps,app,ai,use,development,about,talk,just,learning,knows;0.55404097,0.5126205,0.24891463,0.23909989,0.22747488,0.20496191,0.17973757,0.1770565,0.16792896,0.16631512;"
+The main idea or conclusion they have in common is:
+Both texts discuss the benefits of using an app that utilizes AI, particularly for personalized assistance and continuous learning, to help individuals in their daily lives."
+11;40;openai,app,ui,native,typing,touch,twirl,well,just,great;0.47059786,0.3752119,0.3079617,0.2782296,0.18221414,0.18127108,0.17529675,0.16944505,0.16021031,0.15678847;"
+The texts share the main idea that both apps offer an exceptional user experience, enhanced by unique features such as haptic feedback and lifelike graphics, making them stand out among other apps."
+12;34;app,ios,chatgpt,usability,ipad,features,iphone,plugins,ipados,browsing;0.47764236,0.42611325,0.41022927,0.3954442,0.31710878,0.30182222,0.2945392,0.28247052,0.28218895,0.2762844;"
+The main idea or conclusion shared by these texts is: The ChatGPT app is a valuable tool for generating text-based conversations, but its usability could be improved by optimizing it for the larger screen size of the iPad, which would enhance the user experience and productivity."
+13;34;ios,app,alexa,sdk,text,swipe,native,functionality,speak,audio;0.43403274,0.40018523,0.31520912,0.2802493,0.24608047,0.23589075,0.22459039,0.20322111,0.19957986,0.18108472;"
+The main idea or conclusion shared by the texts is the need for improved voice response integration, customizable plugins, shortcuts integration, and text-to-voice features in the app, as well as addressing UX design issues and adding native functionality to enhance user experience."
