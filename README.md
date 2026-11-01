@@ -11,3 +11,5 @@ python LinguaLoupe.py -ti 'CHATGPT User Reviews' -dt test_datasets/Final_Dataset
 ```
 
 Since the original dataset was already divided  by sentiment, for this dataset only topic analysis was performed.
+
+Only english reviews of this dataset have been taken into account for this analysis
