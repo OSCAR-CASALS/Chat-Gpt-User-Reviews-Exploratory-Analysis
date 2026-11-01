@@ -7,7 +7,7 @@ In the following weeks a document with a proper analysis of the report will be a
 The command used to build this report was the following:
 
 ```
-python LinguaLoupe.py -ti 'CHATGPT User Reviews' -dt test_datasets/CHATGPT_Reviews_Clean.csv -text_c Review -o results -lang english -col label -colors colors/chatgpr_user_reviews_colors.json -min_topic_size 24 -min_topic_size_global 50 -e_model sentence-transformers/all-MiniLM-L6-v2 -summarize mistralai/Mistral-7B-Instruct-v0.3
+python LinguaLoupe.py -ti 'CHATGPT User Reviews' -dt test_datasets/Final_Dataset.csv -text_c Review -o results -lang english -col label -colors colors/chatgpr_user_reviews_colors.json -min_topic_size 10 -min_topic_size_global 20 -e_model sentence-transformers/all-mpnet-base-v2
 ```
 
 Since the original dataset was already divided  by sentiment, for this dataset only topic analysis was performed.
